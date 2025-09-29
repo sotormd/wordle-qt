@@ -53,24 +53,6 @@ $ ./start.sh
 # Showcase
 
 <div align="center">
-
-<table>
-<tr>
-<td>
   <img src="./screenshots/wordle.png" alt="Wordle Qt Screenshot" width="350"/>
-</td>
-<td>
-
-| Button   | Key   |Action                                          |
-|----------|-------|------------------------------------------------|
-|       | `Esc` |New game                                        |
-| 󰈈      |       |Show best guesses, info gained, words remaining |
-| 󰚩      |       |Autoplay best guesses                           |
-| 󱚌      |       |Play a custom word                              |
-
-</td>
-</tr>
-</table>
-
 </div>
 

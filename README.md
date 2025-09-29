@@ -10,6 +10,8 @@ A Wordle clone built with Qt6.
 
 `wordfreq`
 
+`nerdfonts` (for icons)
+
 # Usage
 
 1. Clone this repository.

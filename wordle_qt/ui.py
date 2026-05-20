@@ -4,15 +4,16 @@ import random
 
 from PyQt6.QtCore import Qt
 from PyQt6.QtGui import QFont
-from PyQt6.QtWidgets import (QComboBox, QGridLayout, QHBoxLayout,
-                             QInputDialog, QLabel, QMessageBox, QPushButton,
-                             QVBoxLayout, QWidget)
+from PyQt6.QtWidgets import (QComboBox, QGridLayout, QHBoxLayout, QInputDialog,
+                             QLabel, QMessageBox, QPushButton, QVBoxLayout,
+                             QWidget)
 
-from modules import analyze, game, words
-from modules.themes import styles, get_stylesheet, set_current_style
+from . import analyze, game, words
+from .themes import get_stylesheet, styles
 
 MAX_GUESSES = 6
 WORD_LENGTH = 5
+
 
 class WordleUI(QWidget):
     def __init__(self, app, current_style):
@@ -365,7 +366,6 @@ class WordleUI(QWidget):
         self.current_style = style_name
         self.colors = styles[self.current_style]["colors"]
         self.app.setStyleSheet(get_stylesheet(self.current_style))
-        set_current_style(self.current_style)
         for row_tiles in self.tiles:
             for tile in row_tiles:
                 if tile.state is None:
@@ -392,4 +392,3 @@ class WordleUI(QWidget):
                     2: self.colors["green"],
                 }
                 self._style_key_colored(btn, color_map[pr])
-

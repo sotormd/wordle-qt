@@ -1,6 +1,6 @@
 import math
 import wordfreq
-from modules import game
+from . import game
 
 STARTERS = "roate", "soare", "stare"
 

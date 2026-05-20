@@ -130,9 +130,8 @@ styles = {
             "gray": "#4C566A",
             "tile-border": "#3B4252",
         },
-        "stylesheet": stylesheet_dark
+        "stylesheet": stylesheet_dark,
     },
-
     "solarized-light": {
         "colors": {
             "background": "#FDF6E3",
@@ -147,9 +146,8 @@ styles = {
             "gray": "#93A1A1",
             "tile-border": "#93A1A1",
         },
-        "stylesheet": stylesheet_light
+        "stylesheet": stylesheet_light,
     },
-
     "dracula": {
         "colors": {
             "background": "#282A36",
@@ -164,9 +162,8 @@ styles = {
             "gray": "#44475A",
             "tile-border": "#6272A4",
         },
-        "stylesheet": stylesheet_dark
+        "stylesheet": stylesheet_dark,
     },
-
     "gruvbox-dark": {
         "colors": {
             "background": "#282828",
@@ -181,9 +178,8 @@ styles = {
             "gray": "#928374",
             "tile-border": "#3C3836",
         },
-        "stylesheet": stylesheet_dark
+        "stylesheet": stylesheet_dark,
     },
-
     "gruvbox-light": {
         "colors": {
             "background": "#FBF1C7",
@@ -198,9 +194,8 @@ styles = {
             "gray": "#928374",
             "tile-border": "#D5C4A1",
         },
-        "stylesheet": stylesheet_light
+        "stylesheet": stylesheet_light,
     },
-
     "monokai": {
         "colors": {
             "background": "#272822",
@@ -215,9 +210,8 @@ styles = {
             "gray": "#75715E",
             "tile-border": "#49483E",
         },
-        "stylesheet": stylesheet_dark
+        "stylesheet": stylesheet_dark,
     },
-
     "one-dark": {
         "colors": {
             "background": "#282C34",
@@ -232,9 +226,8 @@ styles = {
             "gray": "#5C6370",
             "tile-border": "#3E4451",
         },
-        "stylesheet": stylesheet_dark
+        "stylesheet": stylesheet_dark,
     },
-
     "material-dark": {
         "colors": {
             "background": "#263238",
@@ -249,9 +242,8 @@ styles = {
             "gray": "#90A4AE",
             "tile-border": "#37474F",
         },
-        "stylesheet": stylesheet_dark
+        "stylesheet": stylesheet_dark,
     },
-
     "tomorrow-night": {
         "colors": {
             "background": "#1D1F21",
@@ -266,9 +258,8 @@ styles = {
             "gray": "#969896",
             "tile-border": "#282A2E",
         },
-        "stylesheet": stylesheet_dark
+        "stylesheet": stylesheet_dark,
     },
-
     "high-contrast": {
         "colors": {
             "background": "#000000",
@@ -283,9 +274,8 @@ styles = {
             "gray": "#7F7F7F",
             "tile-border": "#FFFFFF",
         },
-        "stylesheet": stylesheet_dark
+        "stylesheet": stylesheet_dark,
     },
-
     "tango": {
         "colors": {
             "background": "#2E3436",
@@ -300,9 +290,8 @@ styles = {
             "gray": "#888A85",
             "tile-border": "#555753",
         },
-        "stylesheet": stylesheet_dark
+        "stylesheet": stylesheet_dark,
     },
-
     "zenburn": {
         "colors": {
             "background": "#3F3F3F",
@@ -317,9 +306,8 @@ styles = {
             "gray": "#6F6F6F",
             "tile-border": "#5F5F5F",
         },
-        "stylesheet": stylesheet_dark
+        "stylesheet": stylesheet_dark,
     },
-
     "arc-dark": {
         "colors": {
             "background": "#2F343F",
@@ -334,9 +322,9 @@ styles = {
             "gray": "#404552",
             "tile-border": "#3C4048",
         },
-        "stylesheet": stylesheet_dark
+        "stylesheet": stylesheet_dark,
     },
-        "one-light": {
+    "one-light": {
         "colors": {
             "background": "#FAFAFA",
             "foreground": "#383A42",
@@ -350,9 +338,8 @@ styles = {
             "gray": "#9E9E9E",
             "tile-border": "#CCCCCC",
         },
-        "stylesheet": stylesheet_light
+        "stylesheet": stylesheet_light,
     },
-
     "material-light": {
         "colors": {
             "background": "#FAFAFA",
@@ -367,9 +354,8 @@ styles = {
             "gray": "#BDBDBD",
             "tile-border": "#E0E0E0",
         },
-        "stylesheet": stylesheet_light
+        "stylesheet": stylesheet_light,
     },
-
     "solarized-dark": {
         "colors": {
             "background": "#002B36",
@@ -384,9 +370,8 @@ styles = {
             "gray": "#586E75",
             "tile-border": "#073642",
         },
-        "stylesheet": stylesheet_dark
+        "stylesheet": stylesheet_dark,
     },
-
     "github-light": {
         "colors": {
             "background": "#FFFFFF",
@@ -401,9 +386,8 @@ styles = {
             "gray": "#6A737D",
             "tile-border": "#E1E4E8",
         },
-        "stylesheet": stylesheet_light
+        "stylesheet": stylesheet_light,
     },
-
     "github-dark": {
         "colors": {
             "background": "#0D1117",
@@ -418,9 +402,8 @@ styles = {
             "gray": "#484F58",
             "tile-border": "#21262D",
         },
-        "stylesheet": stylesheet_dark
+        "stylesheet": stylesheet_dark,
     },
-
     "ayu-dark": {
         "colors": {
             "background": "#0A0E14",
@@ -435,9 +418,8 @@ styles = {
             "gray": "#3D424D",
             "tile-border": "#131721",
         },
-        "stylesheet": stylesheet_dark
+        "stylesheet": stylesheet_dark,
     },
-
     "ayu-light": {
         "colors": {
             "background": "#FAFAFA",
@@ -452,9 +434,8 @@ styles = {
             "gray": "#ABB0B6",
             "tile-border": "#D9D9D9",
         },
-        "stylesheet": stylesheet_light
+        "stylesheet": stylesheet_light,
     },
-
     "papercolor-light": {
         "colors": {
             "background": "#EEEEEE",
@@ -469,9 +450,8 @@ styles = {
             "gray": "#808080",
             "tile-border": "#CCCCCC",
         },
-        "stylesheet": stylesheet_light
+        "stylesheet": stylesheet_light,
     },
-
     "papercolor-dark": {
         "colors": {
             "background": "#1C1C1C",
@@ -486,9 +466,8 @@ styles = {
             "gray": "#585858",
             "tile-border": "#303030",
         },
-        "stylesheet": stylesheet_dark
+        "stylesheet": stylesheet_dark,
     },
-
     "tokyo-night": {
         "colors": {
             "background": "#1A1B26",
@@ -503,22 +482,15 @@ styles = {
             "gray": "#565F89",
             "tile-border": "#2A2C3C",
         },
-        "stylesheet": stylesheet_dark
-    }
+        "stylesheet": stylesheet_dark,
+    },
 }
 
 
 def get_current_style():
-    with open("settings.json", "r") as file:
-        settings = json.load(file)
-    return settings["style"]
+    return "nord"
 
-
-def set_current_style(style: str):
-    with open("settings.json", "w") as file:
-        json.dump({"style": style}, file, indent = 4)
 
 def get_stylesheet(style_name: str) -> str:
     style = styles[style_name]
     return style["stylesheet"].format(**style["colors"])
-

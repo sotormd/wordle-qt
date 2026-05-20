@@ -1,0 +1,22 @@
+[project]
+name = "wordle-qt"
+version = "0"
+requires-python = ">=3.10"
+
+dependencies = [
+    "PyQt6",
+    "wordfreq",
+]
+
+[project.scripts]
+wordle-qt = "wordle_qt.__main__:main"
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["wordle_qt*"]
+
+[tool.setuptools.package-data]
+wordle_qt = ["data/*.txt"]
